@@ -1,6 +1,5 @@
 # **2022 TTC Transit Data Analysis: Delays**  
-<img width="50" height="50" src="https://github.com/user-attachments/assets/d46bf84f-b776-4af2-b018-050d57322656">
-<img width="50" height="50" src="https://github.com/user-attachments/assets/4c63e159-3661-4d42-ace9-e21811966ede">
+<img width="50" height="50" src="https://github.com/user-attachments/assets/5dff5279-69df-4738-9fb1-698292ca2e83">
 
 ## **Executive Summary**  
 The purpose of this data analysis project is to identify the primary factors contributing to delays in TTC operations. This report is intended for key stakeholders to help optimize transit efficiency.  
@@ -12,6 +11,9 @@ Based on our findings, we recommend that the TTC **proactively prepare for winte
 - Ensuring quick-response maintenance services are available to reduce mechanical delays.  
 
 ---
+
+<img width="50" height="50" src="https://github.com/user-attachments/assets/d46bf84f-b776-4af2-b018-050d57322656">
+<img width="50" height="50" src="https://github.com/user-attachments/assets/4c63e159-3661-4d42-ace9-e21811966ede">
 
 ## **Data Overview**  
 The dataset was sourced from the **TTC Open Data Portal**: [TTC Bus Delay Data](https://open.toronto.ca/dataset/ttc-bus-delay-data/).  
